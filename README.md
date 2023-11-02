@@ -1,4 +1,4 @@
-# Lloyds Banking Group - Modern Engineering
+# Lloyds Banking Group - Modern Engineering - Cohort 12
 
 | Date      | Subject                                                                                                                                                                      | Homework |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
