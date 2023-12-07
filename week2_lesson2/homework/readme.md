@@ -1,5 +1,4 @@
-PREREQUISITE: We will need to install node and npm on our machines in order to run the
-programmes before we containerise them. [Follow this link](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/setting-up-node-on-ec2-instance.html) to learn how to install node and npm on an Amazon EC2 instance (our AWS workspace desktop).
+
 
 Let's create a directory on our desktop called `hello-node`
 Navigate to the Desktop in a terminal and create the directory.
